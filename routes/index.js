@@ -6,4 +6,9 @@ router.get('/', function(req, res, next) {
   res.render('index', { title: 'Express' });
 });
 
+/* Get Sprays converter page. */
+router.get('/sprays', function (req, res, next) {
+	res.render('vtf', { title: 'Spray Converter'});
+});
+
 module.exports = router;
