@@ -1,0 +1,19 @@
+h1, p {
+  font-family: 'Bebas Neue', cursive;
+}
+
+.color-pink {
+  padding: 20px;
+  max-width: 1000px;
+  filter: invert(40%) sepia(100%) saturate(7479%) hue-rotate(329deg) brightness(113%) contrast(115%);
+}
+
+.blink_ {
+  animation: blinker 1s step-start infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
