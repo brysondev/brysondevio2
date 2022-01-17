@@ -3,13 +3,13 @@ h1, p {
 }
 
 svg {
-  width: 45px;
-  height: 45px;
+  width: 5em;
+  height: 5em;
 }
 
 .yt {
-  width: 50px;
-  height: 50px;
+  width: 5.5em;
+  height: 5.5em;
 }
 
 .text-name {
@@ -19,25 +19,26 @@ svg {
 
 .color-pink {
   padding: 20px;
-  max-width: 1000px;
+  width: 40em;
+  height: 40em;
   filter: invert(40%) sepia(100%) saturate(7479%) hue-rotate(329deg) brightness(113%) contrast(115%);
 }
 
 @media screen and (max-width: 936px) {
 	.color-pink {
-    padding: 20px;
-    max-width: 150px;
+    width: 12em;
+    height: 12em;
 	}
   .text-name {
-    font-size: 2em;
+    font-size: 3em;
   }
   svg {
-    width: 20px;
-    height: 20px;
+    width: 2em;
+    height: 2em;
   }
   .yt {
-    width: 25px;
-    height: 25px;
+    width: 2.5em;
+    height: 2.5em;
   }
 }
 
