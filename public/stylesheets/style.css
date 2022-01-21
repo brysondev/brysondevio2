@@ -1,5 +1,6 @@
-h1, p {
-  font-family: 'Bebas Neue', cursive;
+h1,
+p {
+  font-family: "Bebas Neue", cursive;
 }
 
 svg {
@@ -12,7 +13,7 @@ svg {
   height: 5.5em;
 }
 
-.text-name { 
+.text-name {
   font-size: 10em;
 }
 
@@ -20,14 +21,15 @@ svg {
   padding: 20px;
   width: 40em;
   height: 40em;
-  filter: invert(40%) sepia(100%) saturate(7479%) hue-rotate(329deg) brightness(113%) contrast(115%);
+  filter: invert(40%) sepia(100%) saturate(7479%) hue-rotate(329deg)
+    brightness(113%) contrast(115%);
 }
 
 @media screen and (max-width: 936px) {
-	.color-pink {
+  .color-pink {
     width: 12em;
     height: 12em;
-	}
+  }
   .text-name {
     font-size: 3em;
   }
