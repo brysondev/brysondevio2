@@ -6,6 +6,12 @@ p {
 svg {
   width: 5em;
   height: 5em;
+  text-decoration: none;
+}
+
+.bi-github {
+  width: 4em;
+  height: 4em;
 }
 .centerpiece {
   position: absolute;
