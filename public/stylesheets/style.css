@@ -27,19 +27,19 @@ svg {
 
 @media screen and (max-width: 936px) {
   .color-pink {
-    width: 12em;
-    height: 12em;
+    width: 20em;
+    height: 20em;
   }
   .text-name {
-    font-size: 3em;
+    font-size: 5em;
   }
   svg {
-    width: 2em;
-    height: 2em;
-  }
-  .yt {
     width: 2.5em;
     height: 2.5em;
+  }
+  .yt {
+    width: 3em;
+    height: 3em;
   }
 }
 
