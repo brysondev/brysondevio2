@@ -13,6 +13,7 @@ svg {
   width: 4em;
   height: 4em;
 }
+
 .centerpiece {
   position: absolute;
   left: 0;
@@ -50,6 +51,10 @@ svg {
   svg {
     width: 2.5em;
     height: 2.5em;
+  }
+  .bi-github {
+    width: 1.5em;
+    height: 1.5em;
   }
   .yt {
     width: 3em;
