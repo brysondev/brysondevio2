@@ -52,7 +52,8 @@ svg {
   .centerpiece {
     position: absolute;
     left: 0;
-    top: 50%;
+    top: 150px;
+    bottom: 150px;
     padding: 0 10px;
     width: 100%;
     text-align: center;
