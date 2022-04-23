@@ -7,6 +7,14 @@ svg {
   width: 5em;
   height: 5em;
 }
+.centerpiece {
+  position: absolute;
+  left: 0;
+  top: 10%;
+  padding: 0 10px;
+  width: 100%;
+  text-align: center;
+}
 
 .yt {
   width: 5.5em;
