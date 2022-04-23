@@ -49,6 +49,14 @@ svg {
     width: 3em;
     height: 3em;
   }
+  .centerpiece {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    padding: 0 10px;
+    width: 100%;
+    text-align: center;
+  }
 }
 
 .blink_ {
