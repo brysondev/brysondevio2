@@ -1,3 +1,10 @@
+body {
+  background-color: rgb(68, 64, 64);
+  text-align: center;
+  color:#ffffff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 #contentWrapper {
   background: url("../images/bg.gif");
   background-position: 0 0;
